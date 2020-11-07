@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "electron ."
   },
   "author": "Costa Mattia",
   "license": "ISC",
   "devDependencies": {
     "electron": "^10.1.5"
-  }
+  },
+  "dependencies": {}
 }
