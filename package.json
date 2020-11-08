@@ -11,5 +11,8 @@
   "devDependencies": {
     "electron": "^10.1.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "async": "^3.2.0",
+    "node-opcua": "^2.25.0"
+  }
 }

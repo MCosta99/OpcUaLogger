@@ -1,1 +1,5 @@
-# OpcUaLogger
+# OpcUaLogger WIP
+
+Todo:
+ - All
+
